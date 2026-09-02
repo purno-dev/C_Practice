@@ -50,7 +50,7 @@ int main()
             }
         
             else {
-                choice>3||choice<1?printf("Invailed Choice"):printf("Invailed Choice");
+                printf("Invailed Choice");
             }
         
         }
