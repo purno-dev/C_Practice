@@ -1,3 +1,5 @@
+//Discount Calculator
+
 #include <stdio.h>
 
 int main()

@@ -1,3 +1,4 @@
+//Ticket Price Counter
 #include <stdio.h>
 
 int main()
