@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdbool.h>
 int main()
 {   int n;
     printf("Enter Number to see if it is Prime or not:");
