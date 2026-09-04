@@ -1,0 +1,1 @@
+printf("Number of digits in %d is %d",a,count);
