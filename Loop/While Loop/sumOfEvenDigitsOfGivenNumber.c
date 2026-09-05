@@ -9,12 +9,14 @@ int main()
   while (a > 0)
   {
     lastDigits = a % 10;
-    if (lastDigits%2==0){
-      sum=sum+lastDigits;
-            a=a/10;
+    if (lastDigits % 2 == 0)
+    {
+      sum = sum + lastDigits;
+      a = a / 10;
     }
-    else {
-      a=a/10;
+    else
+    {
+      a = a / 10;
     }
   }
 
