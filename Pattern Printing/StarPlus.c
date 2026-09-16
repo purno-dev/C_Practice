@@ -9,10 +9,10 @@ int main()
     for (int i = 1; i <= a; i++)
     {
         k = 1;
-        for (int j = 1; k <= a; j++)
+        for (int j = 1; j <= a; j++)
         {
 
-            if (i==a-2 || j==a-2)
+            if (i==a/2+1 || j==a/2+1)
                 {
                     printf("* ");
                 }
