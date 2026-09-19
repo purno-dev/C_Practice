@@ -4,9 +4,9 @@ int main(){
     int a,i,j,z;
     printf("Enter Number of Colummn:");
     scanf("%d", &a);
-    z=65;
+    
     for (i=1;i<=a;i++)
-    {
+    {   z=65;
        for (j=1;j<=a-i;j++)
     {
         printf("  ");
@@ -14,7 +14,8 @@ int main(){
      for (j=1;j<=i;j++)
     {
         
-        printf("* ");
+        printf(" %c",z);
+        z++;
     } 
     printf("\n");
     }
