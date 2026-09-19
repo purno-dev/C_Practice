@@ -18,4 +18,5 @@ int main(){
     printf("\n");
     k--;
     }
+    return 0;
 }
