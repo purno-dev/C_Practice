@@ -1,1 +1,1 @@
-
+printf("%d is a leap year!",year);
